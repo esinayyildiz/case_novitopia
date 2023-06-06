@@ -33,6 +33,7 @@ Open http://localhost:8000 to view it in your browser.
 to create database
 
 --python manage.py createsuperuser to create admin
+to login to my project as admin with docker (email=esin@gmail.com, password=bennapicam12)
 
 Added docker compose(postgresql) to the project. To run it, go to the folder where the docker-compose.yml file is located in the terminal 
 and give the docker-compose up command. Docker Compose will pull all the Images contained in 
